@@ -1,3 +1,4 @@
+//go:build android
 // +build android
 
 package main
@@ -70,7 +71,7 @@ import (
 	"log"
 	"syscall"
 
-	vinternet "github.com/v2fly/v2ray-core/v4/transport/internet"
+	vinternet "github.com/v2fly/v2ray-core/v5/transport/internet"
 )
 
 func ControlOnConnSetup(network string, address string, s uintptr) error {
