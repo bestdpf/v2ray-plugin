@@ -1,4 +1,4 @@
-module github.com/shadowsocks/v2ray-plugin
+module github.com/bestdpf/v2ray-plugin
 
 go 1.16
 
