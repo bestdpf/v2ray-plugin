@@ -1,6 +1,6 @@
 module github.com/bestdpf/v2ray-plugin
 
-go 1.16
+go 1.19
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
