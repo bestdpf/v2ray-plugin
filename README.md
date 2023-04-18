@@ -1,3 +1,5 @@
+# support golang 1.19 right now!!!
+
 ## Yet another SIP003 plugin for shadowsocks, based on [v2ray](https://github.com/v2fly/v2ray-core)
 
 [![CircleCI](https://circleci.com/gh/shadowsocks/v2ray-plugin.svg?style=shield)](https://circleci.com/gh/shadowsocks/v2ray-plugin)
